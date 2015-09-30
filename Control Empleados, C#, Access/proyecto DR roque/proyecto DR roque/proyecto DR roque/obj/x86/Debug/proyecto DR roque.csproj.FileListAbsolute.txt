@@ -1,0 +1,31 @@
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\bin\Debug\proyecto DR roque.exe
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\bin\Debug\proyecto DR roque.pdb
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form1.resources
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form2.resources
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Properties.Resources.resources
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto DR roque.csproj.GenerateResource.Cache
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto DR roque.exe
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto DR roque.pdb
+C:\Users\calebdk\AppData\Local\Temporary Projects\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form3.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.exe
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.pdb
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form1.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form2.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Properties.Resources.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.csproj.GenerateResource.Cache
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\bin\Debug\proyecto DR roque.exe
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\bin\Debug\proyecto DR roque.pdb
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.csproj.ResolveComReference.cache
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form3.resources
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.csproj.ResolveComReference.cache
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.exe
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto DR roque.pdb
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\bin\Debug\proyecto DR roque.exe
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\bin\Debug\proyecto DR roque.pdb
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form1.resources
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form2.resources
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Form3.resources
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\proyecto_DR_roque.Properties.Resources.resources
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\calebDK\Desktop\proyecto DR roque\proyecto DR roque\obj\x86\Debug\GenerateResource.write.1.tlog

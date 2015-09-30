@@ -1,0 +1,5 @@
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Release\proyecto DR roque.csproj.ResolveComReference.cache
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Release\proyecto_DR_roque.Form1.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Release\proyecto_DR_roque.Form2.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Release\proyecto_DR_roque.Properties.Resources.resources
+C:\Users\calebdk\Desktop\proyecto final roque\proyecto DR roque\proyecto DR roque\obj\x86\Release\proyecto DR roque.csproj.GenerateResource.Cache
